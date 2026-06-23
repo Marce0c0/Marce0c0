@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://pin.it/2fWY33DAi](https://i.pinimg.com/webp/1200x/5a/d8/dd/5ad8dd6d59e822d94509844dc22ad5b8.webp)" alt="Banner de Sammy" width="100%" />
+  <img src="https://ibb.co/4R356jqn" alt="Banner de Sammy" width="100%" />
 </div>
 
 <br>
