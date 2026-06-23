@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/k29PMFjP/Modificado-Final.jpg" alt="Banner Modificado" width="100%" />
+  <img src="https://i.ibb.co/k29PMFjP/Modificado-Final.jpg](https://i.postimg.cc/Ghs7vf8f/upscalemedia-transformed-(3).jpg" alt="Banner Modificado" width="100%" />
 </div>
 
 <br>
