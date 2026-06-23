@@ -4,7 +4,7 @@
 
 <br>
 
-Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student at **UPDS** in **Cochabamba, Bolivia**. I am passionate about software development, database modeling, and corporate network architecture design. In my spare time, I enjoy hardware projects, restore/modifying my Honda VTZ250H motorcycle, PC gaming, and after watching a bit of anime, the ones from the 80s/90s are my favorites.
+Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student at **UPDS** in **Cochabamba, Bolivia**. I am passionate about software development, database modeling, and corporate network architecture design. In my spare time, I enjoy hardware projects, restore/modifying my Honda VTZ250H motorcycle, PC gaming, and watching a bit of anime, the ones from the 80s/90s are my favorites.
 
 ### 🛠️ Tech Stack & Herramientas
 
@@ -16,7 +16,10 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitLab-330F53?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Microsoft_Learn_Student_Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MLSA" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
@@ -29,7 +32,7 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
 
 - 🔭 **Working on:** Nothing important for now 🔰.
 - 🌱 **Learning:** Git workflow optimization, Supabase, and GitHub Copilot.
-- 👯 **Looking to collaborate on:** Full Stack (C#/React) and database projects.
+- 🤝 **Looking to collaborate on:** Full Stack (C#/React) and database projects.
 - 💬 **Ask me about:** Cisco Packet Tracer routing, hardware assembly, or smartphone repair.
 - ⚡ **Fun fact:** I'm a Battlefield 1 player and an anime enthusiast.
 
@@ -39,4 +42,6 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
   <a href="TU_LINK_DE_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Marce0c0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:marcelo7650988gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://steamcommunity.com/id/Marce0c0/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+  <a href="https://discord.gg/S5D2USBm"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
