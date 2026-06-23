@@ -34,14 +34,15 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
 - 🌱 **Learning:** Git workflow optimization, Supabase, and GitHub Copilot.
 - 🤝 **Looking to collaborate on:** Full Stack (C#/React) and database projects.
 - 💬 **Ask me about:** Cisco Packet Tracer routing, hardware assembly, or smartphone repair.
-- ⚡ **Fun fact:** I'm a Battlefield 1 player and an anime enthusiast.
+- ⚡ **Fun fact:** I'm a Battlefield 1 player, an anime enthusiast, and a passionate audiophile who loves listening to `.FLAC` music. Huge Playboi Carti fan 🦇🩸.
 
 <br>
 
 <div align="left">
   <a href="TU_LINK_DE_LINKEDIN_AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Marce0c0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:marcelo7650988gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:marcelo7650988@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/marcelo_s.00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://steamcommunity.com/id/Marce0c0/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
   <a href="https://discord.gg/S5D2USBm"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
