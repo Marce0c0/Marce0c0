@@ -9,12 +9,24 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
 ### 🏆 Certifications & Badges
 
 <p align="left">
+  <!-- Credly: Microsoft: AI Skills Fest 2026 -->
   <a href="https://www.credly.com/badges/2c46136c-d331-478e-8b37-2ed70bd5b1f7/public_url" target="_blank">
     <img src="https://images.credly.com/size/150x150/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="Microsoft Certification" />
   </a>
   &nbsp;&nbsp;
+  <!-- Microsoft Learn: Applied Skill: Introducción al desarrollo de agentes en Microsoft Foundry -->
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/Marcelo-Sivila-00/35A50D0D49928B52?sharingId=DED0808608851FC2" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills" width="150" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Credly: Cisco: Networking Basics -->
   <a href="https://www.credly.com/badges/62225eb0-b410-4148-ba68-1e5db8b7527b/public_url" target="_blank">
     <img src="https://images.credly.com/size/150x150/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Certification" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Microsoft Learn: Applied Skill: Generación de informes con agentes de investigación de IA -->
+  <a href="https://learn.microsoft.com/api/credentials/share/es-es/Marcelo-Sivila-00/AC0D7AEA967D121D?sharingId=DED0808608851FC2" target="_blank">
+    <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills" width="150" />
   </a>
 </p>
 
