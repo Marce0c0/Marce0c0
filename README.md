@@ -8,7 +8,7 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
 
 ### 🏆 Certifications & Badges
 
-<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr align="center">
     <!-- Credly: Microsoft: AI Skills Fest 2026 -->
     <td width="25%">
@@ -16,7 +16,7 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
         <img src="https://images.credly.com/size/150x150/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="Microsoft Certification" />
       </a>
     </td>
-    <!-- Microsoft Learn: Introducción al desarrollo de agentes en Microsoft Foundry -->
+    <!-- Microsoft Learn: Get started developing agents in Microsoft Foundry -->
     <td width="25%">
       <a href="https://learn.microsoft.com/api/credentials/share/es-es/Marcelo-Sivila-00/35A50D0D49928B52?sharingId=DED0808608851FC2" target="_blank">
         <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills" width="150" />
@@ -28,7 +28,7 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
         <img src="https://images.credly.com/size/150x150/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Certification" />
       </a>
     </td>
-    <!-- Microsoft Learn: Generación de informes con agentes de investigación de IA -->
+    <!-- Microsoft Learn: Generate reports with AI research agents -->
     <td width="25%">
       <a href="https://learn.microsoft.com/api/credentials/share/es-es/Marcelo-Sivila-00/AC0D7AEA967D121D?sharingId=DED0808608851FC2" target="_blank">
         <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills" width="150" />
@@ -37,11 +37,12 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
   </tr>
   <tr align="center">
     <td><b>AI Skills Fest 2026</b></td>
-    <td><b>Desarrollo de agentes<br>en Microsoft Foundry</b></td>
+    <td><b>Get started developing agents<br>in Microsoft Foundry</b></td>
     <td><b>Networking<br>Basics</b></td>
-    <td><b>Informes con agentes<br>de IA</b></td>
+    <td><b>Generate reports with<br>AI research agents</b></td>
   </tr>
 </table>
+
 <br>
 
 ### 🛠️ Tech Stack & Herramientas
