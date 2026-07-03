@@ -8,41 +8,41 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
 
 ### 🏆 Certifications & Badges
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr align="center">
-    <!-- Credly: Microsoft: AI Skills Fest 2026 -->
-    <td width="25%">
-      <a href="https://www.credly.com/badges/2c46136c-d331-478e-8b37-2ed70bd5b1f7/public_url" target="_blank">
-        <img src="https://images.credly.com/size/150x150/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="Microsoft Certification" />
-      </a>
-    </td>
-    <!-- Microsoft Learn: Get started developing agents in Microsoft Foundry -->
-    <td width="25%">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/Marcelo-Sivila-00/35A50D0D49928B52?sharingId=DED0808608851FC2" target="_blank">
-        <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills" width="150" />
-      </a>
-    </td>
-    <!-- Credly: Cisco: Networking Basics -->
-    <td width="25%">
-      <a href="https://www.credly.com/badges/62225eb0-b410-4148-ba68-1e5db8b7527b/public_url" target="_blank">
-        <img src="https://images.credly.com/size/150x150/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Certification" />
-      </a>
-    </td>
-    <!-- Microsoft Learn: Generate reports with AI research agents -->
-    <td width="25%">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/Marcelo-Sivila-00/AC0D7AEA967D121D?sharingId=DED0808608851FC2" target="_blank">
-        <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills" width="150" />
-      </a>
-    </td>
-  </tr>
-  <tr align="center">
-    <td><b>AI Skills Fest 2026</b></td>
-    <td><b>Get started developing agents<br>in Microsoft Foundry</b></td>
-    <td><b>Networking<br>Basics</b></td>
-    <td><b>Generate reports with<br>AI research agents</b></td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
 
+  <!-- Credly: Microsoft: AI Skills Fest 2026 -->
+  <div style="flex: 1 1 150px; max-width: 180px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+    <a href="https://www.credly.com/badges/2c46136c-d331-478e-8b37-2ed70bd5b1f7/public_url" target="_blank">
+      <img src="https://images.credly.com/size/150x150/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="Microsoft Certification" style="width: 100%; max-width: 150px; height: auto;" />
+    </a>
+    <p style="margin-top: 10px; font-weight: bold; font-size: 14px;">AI Skills Fest 2026</p>
+  </div>
+
+  <!-- Microsoft Learn: Get started developing agents in Microsoft Foundry -->
+  <div style="flex: 1 1 150px; max-width: 180px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+    <a href="https://learn.microsoft.com/api/credentials/share/es-es/Marcelo-Sivila-00/35A50D0D49928B52?sharingId=DED0808608851FC2" target="_blank">
+      <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills" style="width: 100%; max-width: 150px; height: auto;" />
+    </a>
+    <p style="margin-top: 10px; font-weight: bold; font-size: 14px;">Get started developing agents<br>in Microsoft Foundry</p>
+  </div>
+
+  <!-- Credly: Cisco: Networking Basics -->
+  <div style="flex: 1 1 150px; max-width: 180px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+    <a href="https://www.credly.com/badges/62225eb0-b410-4148-ba68-1e5db8b7527b/public_url" target="_blank">
+      <img src="https://images.credly.com/size/150x150/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Certification" style="width: 100%; max-width: 150px; height: auto;" />
+    </a>
+    <p style="margin-top: 10px; font-weight: bold; font-size: 14px;">Networking<br>Basics</p>
+  </div>
+
+  <!-- Microsoft Learn: Generate reports with AI research agents -->
+  <div style="flex: 1 1 150px; max-width: 180px; display: flex; flex-direction: column; align-items: center; justify-content: space-between;">
+    <a href="https://learn.microsoft.com/api/credentials/share/es-es/Marcelo-Sivila-00/AC0D7AEA967D121D?sharingId=DED0808608851FC2" target="_blank">
+      <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills" style="width: 100%; max-width: 150px; height: auto;" />
+    </a>
+    <p style="margin-top: 10px; font-weight: bold; font-size: 14px;">Generate reports with<br>AI research agents</p>
+  </div>
+
+</div>
 <br>
 
 ### 🛠️ Tech Stack & Herramientas
