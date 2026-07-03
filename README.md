@@ -6,7 +6,7 @@
 
 Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student at **UPDS** in **Cochabamba, Bolivia**. I am passionate about software development, database modeling, and corporate network architecture design. In my spare time, I enjoy hardware projects, restore/modifying my Honda VTZ250H motorcycle, PC gaming, and watching a bit of anime, the ones from the 80s/90s are my favorites.
 
-### 🏆 Certifications & Badges
+### 🏆 Certifications & Badges (*Click on them to view them*)
 
 <table width="100%">
   <tr align="center">
