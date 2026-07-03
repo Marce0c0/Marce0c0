@@ -11,35 +11,35 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
 <table width="100%">
   <tr align="center">
     <!-- Credly: Microsoft: AI Skills Fest 2026 -->
-    <td width="25%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://www.credly.com/badges/2c46136c-d331-478e-8b37-2ed70bd5b1f7/public_url" target="_blank">
         <img src="https://images.credly.com/size/150x150/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" alt="Microsoft Certification" width="110" height="110" />
       </a>
+      <br><br><b>AI Skills Fest<br>2026</b>
     </td>
     <!-- Microsoft Learn: Get started developing agents in Microsoft Foundry -->
-    <td width="25%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://learn.microsoft.com/api/credentials/share/es-es/Marcelo-Sivila-00/35A50D0D49928B52?sharingId=DED0808608851FC2" target="_blank">
         <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills" width="110" height="110" />
       </a>
-    </td>
-    <!-- Credly: Cisco: Networking Basics -->
-    <td width="25%" valign="top">
-      <a href="https://www.credly.com/badges/62225eb0-b410-4148-ba68-1e5db8b7527b/public_url" target="_blank">
-        <img src="https://images.credly.com/size/150x150/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Certification" width="110" height="110" />
-      </a>
-    </td>
-    <!-- Microsoft Learn: Generate reports with AI research agents -->
-    <td width="25%" valign="top">
-      <a href="https://learn.microsoft.com/api/credentials/share/es-es/Marcelo-Sivila-00/AC0D7AEA967D121D?sharingId=DED0808608851FC2" target="_blank">
-        <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills" width="110" height="110" />
-      </a>
+      <br><br><b>Get started developing<br>agents in Foundry</b>
     </td>
   </tr>
   <tr align="center">
-    <td width="25%" valign="top"><b>AI Skills Fest<br>2026</b></td>
-    <td width="25%" valign="top"><b>Get started developing<br>agents in Foundry</b></td>
-    <td width="25%" valign="top"><b>Networking<br>Basics</b></td>
-    <td width="25%" valign="top"><b>Generate reports with<br>AI research agents</b></td>
+    <!-- Credly: Cisco: Networking Basics -->
+    <td width="50%" valign="top">
+      <a href="https://www.credly.com/badges/62225eb0-b410-4148-ba68-1e5db8b7527b/public_url" target="_blank">
+        <img src="https://images.credly.com/size/150x150/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Certification" width="110" height="110" />
+      </a>
+      <br><br><b>Networking<br>Basics</b>
+    </td>
+    <!-- Microsoft Learn: Generate reports with AI research agents -->
+    <td width="50%" valign="top">
+      <a href="https://learn.microsoft.com/api/credentials/share/es-es/Marcelo-Sivila-00/AC0D7AEA967D121D?sharingId=DED0808608851FC2" target="_blank">
+        <img src="https://learn.microsoft.com/en-us/media/profile/zero-state-applied-skills.svg?branch=main" alt="Microsoft Applied Skills" width="110" height="110" />
+      </a>
+      <br><br><b>Generate reports with<br>AI research agents</b>
+    </td>
   </tr>
 </table>
 
