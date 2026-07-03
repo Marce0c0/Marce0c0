@@ -74,7 +74,7 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
 - 🤝 **Looking to collaborate on:** Full Stack (C#/React) and database projects.
 - 💬 **Ask me about:** Cisco Packet Tracer routing, hardware assembly, or smartphone repair.
 - ⚡ **Fun fact:** I'm a Battlefield 1 player, an anime enthusiast, and a passionate audiophile who loves listening to `.FLAC` music.
-- Huge Playboi Carti fan 🦇🩸.
+- 🦇🩸 Huge *Playboi Carti* fan.
 
 <br>
 
