@@ -45,7 +45,7 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
 
 <br>
 
-### 🛠️ Tech Stack & Herramientas
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
@@ -61,10 +61,6 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
   <img src="https://img.shields.io/badge/Microsoft_Learn_Student_Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MLSA" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
-
-
-
-<br>
 
 ### 📡 Let's Connect!
 
