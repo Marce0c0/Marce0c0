@@ -62,7 +62,7 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
-### 📡 Let's Connect!
+### 📡 Social Networks
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sammy-marcelo-sivila-sanchez-b1a060335"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
