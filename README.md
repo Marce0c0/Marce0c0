@@ -62,19 +62,7 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
 
-### 🏗️ Featured Projects
 
-- 🚗 **Parking Management System:** Built with React and MySQL for efficient relational data handling and collaborative development.
-- 🌐 **Corporate Network Topology:** Large-scale network design and CLI configuration with multi-node setups using Cisco Packet Tracer.
-
-### 🔭 Current Focus & Learning
-
-- 🔭 **Working on:** Nothing important for now 🔰.
-- 🌱 **Learning:** Git workflow optimization, Supabase, and GitHub Copilot.
-- 🤝 **Looking to collaborate on:** Full Stack (C#/React) and database projects.
-- 💬 **Ask me about:** Cisco Packet Tracer routing, hardware assembly, or smartphone repair.
-- ⚡ **Fun fact:** I'm a Battlefield 1 player, an anime enthusiast, and a passionate audiophile who loves listening to `.FLAC` music.
-- 🦇🩸 Huge *Playboi Carti* fan.
 
 <br>
 
