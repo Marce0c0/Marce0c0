@@ -48,6 +48,8 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_SBG-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SBG" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -66,7 +68,7 @@ Hello! 👋 I am **Sammy Marcelo Sivila Sanchez**, a Systems Engineering student
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sammy-marcelo-sivila-sanchez-b1a060335"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Marce0c0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://builder.aws.com/community/@marce0c0"><img src="https://img.shields.io/badge/AWS_Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Builder" /></a>
   <a href="mailto:marcelo7650988@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.instagram.com/marcelo_s.00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://steamcommunity.com/id/Marce0c0/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
